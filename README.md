@@ -17,7 +17,7 @@ Github项目库空间大小存在限制。[详见官方文档](https://docs.gith
 
 ## 访问方法
 
-源地址示例 https://raw.githubusercontent.com/weclont/AnimeCDN/master/bilibili/badapple.mp4
+源地址示例 https://raw.githubusercontent.com/weclont/AnimeCDN1/master/bilibili/badapple.mp4
 
 因为源地址被墙，只有在使用梯子时可直接访问源地址。
 
