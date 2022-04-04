@@ -1,7 +1,3 @@
-# AnimeCDN1
-
-这里是 AnimeCDN 的一号节点~
-
 # AnimeCDN
 使用Github提供的存储服务来存储番剧并为 [maware](https://maware.cc) 提供服务。
 
