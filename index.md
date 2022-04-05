@@ -1,16 +1,48 @@
 # AnimeCDN 主节点
+```
+├─AnimeCDN
+│  └─.idea
+└─AnimeCDN1
+├─.idea
+├─anime
+│  └─赛马娘
+│      ├─赛马娘-第10话 无论跌倒多少次
+│      ├─赛马娘-第11话 欢迎回来
+│      ├─赛马娘-第12话 梦想的舞台
+│      ├─赛马娘-第13话 特别圈 吹响未来的乐章
+│      ├─赛马娘-第1话 梦想的大门
+│      ├─赛马娘-第2话 突如其来的出道战
+│      ├─赛马娘-第3话 第一次的决胜战
+│      ├─赛马娘-第4话 来特训吧
+│      ├─赛马娘-第5话 达比上的宿敌之战
+│      ├─赛马娘-第6话 秋高马肥
+│      ├─赛马娘-第7话 约定
+│      ├─赛马娘-第8话 为了你
+│      └─赛马娘-第9话 Spica的梦想
+└─bilibili
+└─badapple
+```
 
-AnimeCDN的所有文件索引在主节点 [index.json](https://github.com/weclont/AnimeCDN/blob/master/index.json) 文件中。
+## AnimeCDN1
 
-您可以在 [index.md](https://github.com/weclont/AnimeCDN/blob/master/index.md) 中查看详细的文件列表。
-
-### AnimeCDN1
-
-- bilibili
-    - badapple.mp4
-
-[//]: # (    - badappleHD)
-
-[//]: # (        - badappleHD-1.mp4)
-
-[//]: # (        - badappleHD-2.mp4)
+```
+AnimeCDN1
+├─.idea
+├─anime
+│  └─赛马娘
+│      ├─赛马娘-第10话 无论跌倒多少次
+│      ├─赛马娘-第11话 欢迎回来
+│      ├─赛马娘-第12话 梦想的舞台
+│      ├─赛马娘-第13话 特别圈 吹响未来的乐章
+│      ├─赛马娘-第1话 梦想的大门
+│      ├─赛马娘-第2话 突如其来的出道战
+│      ├─赛马娘-第3话 第一次的决胜战
+│      ├─赛马娘-第4话 来特训吧
+│      ├─赛马娘-第5话 达比上的宿敌之战
+│      ├─赛马娘-第6话 秋高马肥
+│      ├─赛马娘-第7话 约定
+│      ├─赛马娘-第8话 为了你
+│      └─赛马娘-第9话 Spica的梦想
+└─bilibili
+└─badapple
+```

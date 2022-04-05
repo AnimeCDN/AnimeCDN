@@ -1,11 +1,17 @@
 # AnimeCDN 简介
 使用Github提供的存储服务来存储番剧并为 [maware](https://maware.cc) 提供服务。
 
-# AnimeCDN 主节点
+## 使用方法
 
-AnimeCDN的所有文件索引在主节点 [index.json](https://github.com/weclont/AnimeCDN/blob/master/index.json) 文件中。
+> https://raw.githubusercontent.com/weclont/{对应的AnimeCDN节点}/master/{多层目录}/video.m3u8
 
-您可以在 [index.md](https://github.com/weclont/AnimeCDN/blob/master/index.md) 中查看详细的文件列表。
+对应参数可在 [目录表](https://github.com/weclont/AnimeCDN/blob/master/index.md) 中查询到。
+
+示例：
+
+因为源地址被墙，只有在使用梯子时可直接访问源地址。
+
+不翻墙的情况下访问源地址需要使用代理，请自行Google或者用自己的代理来访问。
 
 ### 注意事项
 
@@ -15,10 +21,3 @@ Github项目库空间大小存在限制。[详见官方文档](https://docs.gith
 
 因此，我们将会使用更多的库来满足空间需求（您将会在我的个人库中看到AnimeCDN1,~2,~3甚至更多的库），并且您将看到所有超过50M的大文件都被拆分成多个文件储存在库中，你可能需要调整您的程序逻辑来适配这种规则。
 
-## 访问方法
-
-源地址示例 https://raw.githubusercontent.com/weclont/AnimeCDN1/master/bilibili/badapple.mp4
-
-因为源地址被墙，只有在使用梯子时可直接访问源地址。
-
-不翻墙的情况下访问源地址需要使用代理，请自行Google或者用自己的代理来访问。
