@@ -8,7 +8,7 @@
 
 对应参数可在 [目录表](https://github.com/weclont/AnimeCDN/blob/master/index.md) 中查询到。
 
-示例：
+> 示例：https://raw.githubusercontent.com/weclont/AnimeCDN1/master/bilibili/badapple/video.m3u8
 
 因为源地址被墙，只有在使用梯子时可直接访问源地址。
 
