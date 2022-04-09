@@ -1,9 +1,7 @@
-# AnimeCDN 主节点
+# AnimeCDN
 ```
 ├─AnimeCDN
-│  └─.idea
 └─AnimeCDN1
-├─.idea
 ├─anime
 │  └─赛马娘
 │      ├─赛马娘-第10话 无论跌倒多少次
@@ -27,7 +25,6 @@
 
 ```
 AnimeCDN1
-├─.idea
 ├─anime
 │  └─赛马娘
 │      ├─赛马娘-第10话 无论跌倒多少次

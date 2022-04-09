@@ -1,8 +1,14 @@
-# AnimeCDN 简介
+# AnimeCDN
 
 使用Github提供的存储服务来存储番剧并为 [maware](https://maware.cc) 提供服务。
 
-## 使用方法
+## 番剧资源收集站
+
+[点击进入](https://maware.cc)
+
+可直接搜索番剧、获取地址并使用中转服务器获取资源。
+
+## 单独获取资源链接方法
 
 > https://raw.githubusercontent.com/weclont/{对应的AnimeCDN节点}/master/{多层目录}/video.m3u8
 
