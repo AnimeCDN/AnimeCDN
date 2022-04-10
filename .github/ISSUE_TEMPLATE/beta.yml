@@ -1,0 +1,41 @@
+name: 番剧提交
+description: 提交番剧资源点这里
+labels: ["番剧提交"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在标题写“番剧名称”！
+  - type: input
+    id: name
+    attributes:
+      label: 番剧名称
+      description: 请填写番剧名称
+      placeholder: 番剧名称
+    validations:
+      required: true
+  - type: textarea
+    id: animeinformation
+    attributes:
+      label: 基本信息
+      description: 直接复制粘贴的也可以哦
+      placeholder: | 
+        ### 简介
+        示例文本
+        ### 开播时间
+        示例文本
+        ### 角色配音
+        示例文本
+        ### STAFF
+        示例文本
+    validations:
+      required: true
+  - type: textarea
+    id: animelib
+    attributes:
+      label: Github 库地址
+      description: |
+        请填写你开放的 Github 公有库地址
+      placeholder: https://github.com/AnimeCDN/AnimeCDNExample
+    validations:
+      required: true
