@@ -1,76 +1,33 @@
 {
   "anime": [
     {
+      "id": 1,
       "name": "",
       "node": "",
       "introduction": "",
-      "tags": [],
-      "pic": "",
-      "clarity": "高清 720P",
-      "source-website": "哔哩哔哩",
-      "source-url": "https://www.bilibili.com/bangumi/media/md77972",
-      "parts": [
-        {
-          "part": 1,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 2,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 3,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 4,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 5,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 6,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 7,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 8,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 9,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 10,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 11,
-          "title": "",
-          "url": ""
-        },
-        {
-          "part": 12,
-          "title": "",
-          "url": ""
-        }
-      ]
+      "tags": ["", "", ""],
+      "pic": "https://cdn.maware.cc/assets/images/",
+      "url": "https://raw.githubusercontent.com/AnimeCDN/AnimeCDN/master/index/anime/"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "node": "",
+      "introduction": "",
+      "tags": ["", "", "", ""],
+      "pic": "https://cdn.maware.cc/assets/images/",
+      "url": "https://raw.githubusercontent.com/AnimeCDN/AnimeCDN/master/index/anime/"
+    }
+  ],
+  "video": [
+    {
+      "id": 1,
+      "name": "",
+      "node": "",
+      "introduction": "",
+      "tags": ["", "", "", "", ""],
+      "pic": "https://cdn.maware.cc/assets/images/",
+      "url": "https://raw.githubusercontent.com/AnimeCDN/AnimeCDN/master/index/video/"
     }
   ]
 }
