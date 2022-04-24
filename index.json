@@ -1,24 +1,22 @@
 {
   "anime": [
     {
-      "id": 1,
       "name": "赛马娘",
       "node": "AnimeCDN1",
       "introduction": "这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、长久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！",
       "tags": ["游戏改", "运动", "偶像"],
       "pic": "https://cdn.maware.cc/assets/images/saimaniang.jpg",
-      "url": "https://anime-cdn.maware.cc/AnimeCDN/AnimeCDN/master/index/anime/赛马娘.json"
+      "url": "https://raw.githubusercontent.com/AnimeCDN/AnimeCDN/master/index/anime/赛马娘.json"
     }
   ],
   "video": [
     {
-      "id": 1,
       "name": "【東方】Bad Apple!! ＰＶ【影絵】",
       "node": "AnimeCDN1",
       "introduction": "sm8628149 2011/9/25追记：大家如果看到空耳字幕请果断举报，净化弹幕环境，你我有责，感谢。",
       "tags": ["东方", "东方PROJECT", "PV", "动画", "BAD APPLE!!"],
       "pic": "https://cdn.maware.cc/assets/images/badapple.webp",
-      "url": "https://anime-cdn.maware.cc/AnimeCDN/AnimeCDN/master/index/video/BadApple!!.json"
+      "url": "https://raw.githubusercontent.com/AnimeCDN/AnimeCDN/master/index/video/BadApple!!.json"
     }
   ]
 }
