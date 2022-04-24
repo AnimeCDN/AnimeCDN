@@ -1,0 +1,25 @@
+name: 资源举报
+description: 如发现违法违规的资源请点击这里进行举报
+labels: ["资源举报"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在标题写举报的资源名称！
+  - type: input
+    id: name
+    attributes:
+      label: 资源名称
+      description: 请填写资源名称
+      placeholder: 资源名称
+    validations:
+      required: true
+  - type: textarea
+    id: resource
+    attributes:
+      label: 资源地址
+      description: |
+        比如资源的 Github 仓库地址、索引地址等
+      placeholder: https://github.com/AnimeCDN/AnimeCDNExample
+    validations:
+      required: true
