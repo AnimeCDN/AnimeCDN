@@ -1,0 +1,25 @@
+name: 节点提交
+description: 提交节点请点这里
+labels: ["节点提交"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在标题写您的节点的名称
+  - type: input
+    id: name
+    attributes:
+      label: 节点名称
+      description: 请填写节点名称
+      placeholder: 节点名称
+    validations:
+      required: true
+  - type: textarea
+    id: information
+    attributes:
+      label: 节点域名
+      description: 请填写节点域名
+      placeholder: | 
+        请填写节点域名
+    validations:
+      required: true

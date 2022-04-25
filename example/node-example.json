@@ -1,0 +1,14 @@
+[
+    {
+        "name": "示例节点1",
+        "domain": "anime-cdn1.maware.cc"
+    },
+    {
+        "name": "示例节点2",
+        "domain": "anime-cdn2.maware.cc"
+    },
+    {
+        "name": "示例节点3",
+        "domain": "anime-cdn3.maware.cc"
+    }
+]
